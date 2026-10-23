@@ -34,6 +34,7 @@ nav ul.abierto {
   font-weight: bold;
 }
 
+/* Precio de oferta: rojo con contraste 6,5:1 sobre blanco (WCAG AA) */
 .oferta {
-  color: #bbbbbb;
+  color: #b3261e;
 }
