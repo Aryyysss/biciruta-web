@@ -20,3 +20,7 @@ biciruta-web/
 1. Abre la carpeta `biciruta-web` en Visual Studio Code.
 2. Abre `index.html` y pulsa **Go Live** (extensión Live Server) en la barra de estado.
 3. Se abrirá el navegador en `http://127.0.0.1:5500/index.html`.
+
+## Autor
+
+Arya Jafari . 1º Asir . Lenguajes de marcas, curso 2026-2027.
