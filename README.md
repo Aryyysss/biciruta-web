@@ -24,3 +24,4 @@ biciruta-web/
 ## Autor
 
 Arya Jafari . 1º Asir . Lenguajes de marcas, curso 2026-2027.
+Publicado en GitHub.
